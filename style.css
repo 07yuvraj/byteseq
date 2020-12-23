@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(179, 175, 175);
+}
+
+h1,h3{
+    text-align: center;
+}
+
+
+.container{
+    display:flex;
+    justify-content: center;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.54);
+    background-color: ghostwhite;
+}
+
+.video{
+    height: 400px;
+    width: 600px;
+    padding: 3%;
+}
+
+.content{
+    font-size: 23px;
+    padding: 5%;
+}
